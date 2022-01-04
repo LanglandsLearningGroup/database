@@ -1,4 +1,4 @@
-# Database
+# Databases
 ## [Fanography](https://fanography.pythonanywhere.com/)
 ## [A Database for Number Fields](http://galoisdb.math.upb.de/)
 ## [The Automorphic Project](https://automorphic.jh.edu/)
