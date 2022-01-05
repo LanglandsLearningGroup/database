@@ -1,3 +1,9 @@
+---
+layout: article
+title: 数论数据库
+mathjax: true
+permalink: databases.html
+---
 # Databases
 ## [Fanography](https://fanography.pythonanywhere.com/)
 ## [A Database for Number Fields](http://galoisdb.math.upb.de/)
