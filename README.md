@@ -13,3 +13,8 @@ permalink: databases.html
 ## [The L-functions and Modular Forms Database](http://www.lmfdb.org/)
 ## [Number fields](https://hobbes.la.asu.edu/NFDB/)
 ## [Elliptic Curve Data](http://johncremona.github.io/ecdata/)
+---
+# Tools
+- [quiver](https://q.uiver.app) The best commutative diagram drawing tool ever!
+- [TeXmacs](http://www.texmacs.org/tmweb/home/welcome.en.html) GNU TeXmacs is a free scientific editing platform designed to create beautiful technical documents using a wysiwyg interface.
+- [Mathpix Snip](https://mathpix.com) Useful tool suitable for converting images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more.
