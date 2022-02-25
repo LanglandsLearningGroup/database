@@ -32,3 +32,4 @@ permalink: databases.html
 - [TeXmacs](http://www.texmacs.org/tmweb/home/welcome.en.html) GNU TeXmacs is a free scientific editing platform designed to create beautiful technical documents using a wysiwyg interface.
 - [Mathpix Snip](https://mathpix.com) Useful tool suitable for converting images and PDFs to LaTeX, DOCX, Overleaf, Markdown, Excel, ChemDraw and more.
 - [科研通](https://www.ablesci.com) 完全免费的文献互助平台，具备全网最快的应助速度，最高的求助完成率。
+- [Researcher](https://www.researcher-app.com)
