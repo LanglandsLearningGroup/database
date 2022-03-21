@@ -6,6 +6,8 @@ permalink: databases.html
 ---
 # Databases
 
+- [Catalogue of Mathematical Datasets](https://mathdb.mathhub.info)
+
 - [Fanography](https://fanography.pythonanywhere.com/)
 
 - [A Database for Number Fields](http://galoisdb.math.upb.de/)
@@ -25,7 +27,7 @@ permalink: databases.html
 - [Database of Ring Theory](https://ringtheory.herokuapp.com)
 
 - [Atlas of Lie Groups and Representations](http://www.liegroups.org)
-    The Atlas of Lie Groups and Representations is a project to make available information about representations of reductive Lie groups. Of particular importance is the problem of the unitary dual: classifying all of the irreducible unitary representations of a given Lie group.
+   
 ---
 # Tools
 - [quiver](https://q.uiver.app) The best commutative diagram drawing tool ever!
