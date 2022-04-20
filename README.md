@@ -1,6 +1,6 @@
 ---
 layout: article
-title: 数论数据库
+title: Databases & Tools
 mathjax: true
 permalink: databases.html
 ---
