@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Databases & Tools
+title:  Databases & Online References & Tools 
 mathjax: true
 permalink: databases.html
 ---
@@ -29,6 +29,13 @@ permalink: databases.html
 - [Atlas of Lie Groups and Representations](http://www.liegroups.org)
 
 - [GAP](https://www.gap-system.org/Overview/overview.html)
+
+---
+
+# Online References
+- [Automorphic Forms Online References](https://math.ou.edu/~kmartin/afrefs.html) 
+- [Notes on Geometric Langlands](https://people.math.harvard.edu/~gaitsgde/GL/)
+
    
 ---
 # Tools
