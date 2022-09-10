@@ -18,7 +18,7 @@ permalink: databases.html
 
 - [Kerodon—an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 
-- [The L-functions and Modular Forms Database](http://www.lmfdb.org/)
+- [The L-functions and Modular Forms Database (LMFDB)](http://www.lmfdb.org/)
 
 - [Number fields](https://hobbes.la.asu.edu/NFDB/)
 
