@@ -18,6 +18,8 @@ permalink: databases.html
 
 - [Kerodon—an online resource for homotopy-coherent mathematics](https://kerodon.net/)
 
+- [MAGMA computer](http://magma.maths.usyd.edu.au/calc/)
+
 - [The L-functions and Modular Forms Database (LMFDB)](http://www.lmfdb.org/)
 
 - [GroupNames.org is a database, under construction, of names, extensions, properties and character tables of finite groups of small order. Currently, it includes all 16309 finite groups that have order ≤500 and not 256 or 384.](https://people.maths.bris.ac.uk/~matyd/GroupNames/index.html)
