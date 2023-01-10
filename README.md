@@ -34,6 +34,8 @@ permalink: databases.html
 
 - [GAP](https://www.gap-system.org/Overview/overview.html)
 
+- [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
+
 ---
 
 # Online References
