@@ -36,6 +36,8 @@ permalink: databases.html
 
 - [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/)
 
+- [The symmetric functions catalog](http://symmetricfunctions.com/index.htm) An overview of symmetric functions and related topics
+
 ---
 
 # Online References
